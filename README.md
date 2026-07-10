@@ -1,3 +1,7 @@
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 <p align='center'>
 	<a href="https://www.mipengine.org/">
 		<img width="150" src="https://www.mipengine.org/static/img/mip_logo_3b722d7.png" title='MIP' alt='MIP'>
@@ -35,6 +39,9 @@
 	</a>
 </p>
 
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ## What is MIP
 
@@ -64,7 +71,6 @@ Currently, all of the tutorials are written in Chinese. If you need an english v
 - MIP 101 tutorial: [mipengine.org](https://www.mipengine.org/doc/00-mip-101.html)。
 - MIP video tutorials: [MIP Introduction](http://bit.baidu.com/course/detail/id/187/column/120.html)
 
-
 ## How to contribute?
 If you have suggestions to a function or extensions, feel free to [report an issue](https://github.com/mipengine/mip/issues) or make a pull request.
 
@@ -76,12 +82,11 @@ Before adding a pull request, make sure:
 3. Use simple and clear comments in english.
 4. Pass [Fecs](http://fecs.baidu.com/demo) code style check.
 
-
 ## License
 [MIT](./LICENSE)
 
 Copyright (c) 2015-present, Baidu Inc.
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
