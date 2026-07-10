@@ -81,3 +81,7 @@ Before adding a pull request, make sure:
 [MIT](./LICENSE)
 
 Copyright (c) 2015-present, Baidu Inc.
+
+## Support
+
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
